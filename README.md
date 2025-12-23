@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @JenilSavalia
+- ![](https://komarev.com/ghpvc/?username=JenilSavalia)
 - 👀 I’m interested in Satisfying my Curiosity
 - 🌱 I’m currently learning React JS , Node js and Mongodb
 - 💞️ I’m looking to collaborate on projects which contributes to our society and help me learn
