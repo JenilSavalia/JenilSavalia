@@ -2,7 +2,6 @@
 <img width="1130" height="356" alt="Github Banner" src="https://github.com/user-attachments/assets/4758e644-59df-4944-bda1-b16e026271ab" />
 
 
-- ![](https://komarev.com/ghpvc/?username=JenilSavalia)
 
 <br/>
 
@@ -25,48 +24,91 @@
 
 <td width="50%" valign="top">
 
-### 📚 College Notes Exchange Platform
-**Full-stack collaborative learning platform**
+### 🚀 Static Site Deployment Platform — vercel-octo-sniffle
+**Production-ready static site deployment platform (Vercel/Netlify-like)**
 
-📌 **Features**
-- 📊 Analytics Dashboard & Insights  
-- 💬 Real-time Chat System  
-- 🗂 Notes Management & Sharing  
-- 🧠 Smart Study Tools  
-- 👤 User Management System  
+Deploy static websites globally with a single GitHub repository URL.  
+The platform automatically clones, builds, deploys, and serves applications using AWS infrastructure and a microservices-based architecture.
+
+📌 **Highlights**
+- One-click deployment via GitHub repository URL  
+- Automated CI/CD pipeline for static sites  
+- Global CDN delivery using AWS CloudFront  
+- Scalable microservices architecture  
+- Redis Streams for service orchestration  
 
 🛠 **Tech Stack**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+🧱 **Infrastructure**
+- AWS S3 (Static storage)  
+- AWS CloudFront (Global CDN)  
+- AWS EC2 (Build & deployment services)  
+- Redis Streams (Service coordination)  
 
 🔗 **Links**  
-[📂 View Repo](https://github.com/yourusername/college-notes-platform) •  
-[🚀 Live Demo](https://your-live-demo-link.com)
+[🎥 Demo Video](https://youtu.be/HcBkOeIYh74)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧩 Project Name Two
-**Short and clean project description**
+### 🌾 AgriAuthentic
+**Agricultural transparency & product authenticity platform**  
+🏆 *Team Project – Secured 5th Place (All India Hackathon)*
 
-📌 **Features**
-- ⚡ High performance  
-- 🔐 Secure authentication  
-- 🎯 Intuitive UI  
+AgriAuthentic bridges the gap between farmers and consumers using **QR-based verification** and **real-time data**, ensuring trust, quality, and sustainability across the agricultural supply chain.
 
-🛠 **Tech Stack**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+📌 **Core Features**
 
-🔗 **Links**  
-[📂 View Repo](https://github.com/yourusername/project-two) •  
-[🚀 Live Demo](https://your-live-demo-link.com)
+🔍 **QR-Based Product Verification**
+- Scan QR codes pre/post purchase  
+- View full product lifecycle (seed → harvest)  
+- Verify farmer authenticity & certifications  
+
+👨‍🌾 **Farmer Dashboard**
+- Digital profile & certification management  
+- Product lifecycle tracking  
+- Batch-wise QR code generation  
+- Analytics & engagement insights  
+
+🛒 **Consumer Dashboard**
+- Instant product origin verification  
+- Farmer profile access  
+- Purchase history & saved products  
+- Educational content on sustainable farming  
+
+🤖 **AI-Powered Chatbot**
+- 24/7 assistance  
+- Product & farming queries  
+- Recommendations & multi-language support  
+
+✅ **Certification Dashboard**
+- Credential & certification verification  
+- Transparency reports  
+- Sustainability tracking  
+
+🛠 **Tech Stack**
+
+**Frontend**
+- React.js  
+- Vite  
+- Tailwind CSS  
+- JavaScript / TypeScript  
+
+**Backend**
+- Python  
+- Flask / FastAPI  
+- RESTful API architecture  
+
+**Additional Technologies**
+- QR Code Generation & Scanning  
+- AI/ML Models (Chatbot)  
+- Databases: MongoDB / PostgreSQL / MySQL  
 
 </td>
 
@@ -74,5 +116,9 @@
 </table>
 </div>
 
+
 ---
+
+![](https://komarev.com/ghpvc/?username=JenilSavalia)
+
 
