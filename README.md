@@ -8,32 +8,18 @@
 <!-- Social Badges with Modern Styling -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jenilsavalia/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-       width="50" height="50" style="border-radius:50%" />
-</a>
-&nbsp;&nbsp;
-<a href="https://savaliajenil.onrender.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
-       width="50" height="50" style="border-radius:50%" />
-</a>
-&nbsp;&nbsp;
-<a href="https://drive.google.com/drive/folders/1lmtc1qInWTmZjCqYaWhwh20CRLHZYGQh?usp=drive_link">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
-       width="50" height="50" style="border-radius:50%" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=Vu0ZMmFd1_8">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg"
-       width="50" height="50" style="border-radius:50%" />
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/En6AUMb3D6/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
-       width="50" height="50" style="border-radius:50%" />
-</a>
+  <a href="https://www.linkedin.com/in/jenilsavalia/" target="_blank">LinkedIn</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://savaliajenil.onrender.com/" target="_blank">Portfolio</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://drive.google.com/drive/folders/1lmtc1qInWTmZjCqYaWhwh20CRLHZYGQh?usp=drive_link" target="_blank">Resume</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=Vu0ZMmFd1_8" target="_blank">YouTube</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/En6AUMb3D6/" target="_blank">LeetCode</a>
 
 </div>
+
 
 ---
 
