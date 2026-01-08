@@ -25,96 +25,45 @@
 <td width="50%" valign="top">
 
 ### 🚀 Static Site Deployment Platform — vercel-octo-sniffle
-**Production-ready static site deployment platform (Vercel/Netlify-like)**
+**Vercel/Netlify-like static site deployment system**
 
-Deploy static websites globally with a single GitHub repository URL.  
-The platform automatically clones, builds, deploys, and serves applications using AWS infrastructure and a microservices-based architecture.
-
-📌 **Highlights**
-- One-click deployment via GitHub repository URL  
-- Automated CI/CD pipeline for static sites  
-- Global CDN delivery using AWS CloudFront  
-- Scalable microservices architecture  
-- Redis Streams for service orchestration  
+- One-click deployment using GitHub repository URL  
+- Automated build & CI/CD pipeline for static sites  
+- Global CDN delivery via AWS CloudFront  
+- Microservices architecture with Redis Streams orchestration  
+- Scalable AWS infrastructure (S3, EC2)  
+- Production-ready deployment workflow  
 
 🛠 **Tech Stack**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+React · Node.js · AWS (S3, EC2, CloudFront) · Redis · MongoDB  
 
-🧱 **Infrastructure**
-- AWS S3 (Static storage)  
-- AWS CloudFront (Global CDN)  
-- AWS EC2 (Build & deployment services)  
-- Redis Streams (Service coordination)  
-
-🔗 **Links**  
-[🎥 Demo Video](https://youtu.be/HcBkOeIYh74)
+🔗 **Demo**  
+[🎥 YouTube Demo](https://youtu.be/HcBkOeIYh74)
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🌾 AgriAuthentic
-**Agricultural transparency & product authenticity platform**  
-🏆 *Team Project – Secured 5th Place (All India Hackathon)*
+**Agricultural transparency platform**  
+🏆 *5th Place – All India Hackathon (Team Project)*
 
-AgriAuthentic bridges the gap between farmers and consumers using **QR-based verification** and **real-time data**, ensuring trust, quality, and sustainability across the agricultural supply chain.
+- QR-based product authenticity & lifecycle verification  
+- Farmer dashboards for product & certification management  
+- Consumer-facing verification & traceability system  
+- AI-powered chatbot for product & farming queries  
+- Certification dashboard for real-time validation  
+- End-to-end transparency across the supply chain  
 
-📌 **Core Features**
-
-🔍 **QR-Based Product Verification**
-- Scan QR codes pre/post purchase  
-- View full product lifecycle (seed → harvest)  
-- Verify farmer authenticity & certifications  
-
-👨‍🌾 **Farmer Dashboard**
-- Digital profile & certification management  
-- Product lifecycle tracking  
-- Batch-wise QR code generation  
-- Analytics & engagement insights  
-
-🛒 **Consumer Dashboard**
-- Instant product origin verification  
-- Farmer profile access  
-- Purchase history & saved products  
-- Educational content on sustainable farming  
-
-🤖 **AI-Powered Chatbot**
-- 24/7 assistance  
-- Product & farming queries  
-- Recommendations & multi-language support  
-
-✅ **Certification Dashboard**
-- Credential & certification verification  
-- Transparency reports  
-- Sustainability tracking  
-
-🛠 **Tech Stack**
-
-**Frontend**
-- React.js  
-- Vite  
-- Tailwind CSS  
-- JavaScript / TypeScript  
-
-**Backend**
-- Python  
-- Flask / FastAPI  
-- RESTful API architecture  
-
-**Additional Technologies**
-- QR Code Generation & Scanning  
-- AI/ML Models (Chatbot)  
-- Databases: MongoDB / PostgreSQL / MySQL  
+🛠 **Tech Stack**  
+React · Vite · Tailwind CSS · Python · Flask/FastAPI · AI/ML · Databases  
 
 </td>
 
 </tr>
 </table>
 </div>
+
 
 
 ---
