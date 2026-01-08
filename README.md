@@ -6,13 +6,34 @@
 <br/>
 
 <!-- Social Badges with Modern Styling -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenilsavalia/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://savaliajenil.onrender.com/)
-<a href="https://drive.google.com/drive/folders/1lmtc1qInWTmZjCqYaWhwh20CRLHZYGQh?usp=drive_link" download>
-  <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" />
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jenilsavalia/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="50" height="50" style="border-radius:50%" />
 </a>
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Vu0ZMmFd1_8)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/En6AUMb3D6/)
+&nbsp;&nbsp;
+<a href="https://savaliajenil.onrender.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
+       width="50" height="50" style="border-radius:50%" />
+</a>
+&nbsp;&nbsp;
+<a href="https://drive.google.com/drive/folders/1lmtc1qInWTmZjCqYaWhwh20CRLHZYGQh?usp=drive_link">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+       width="50" height="50" style="border-radius:50%" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/watch?v=Vu0ZMmFd1_8">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg"
+       width="50" height="50" style="border-radius:50%" />
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/En6AUMb3D6/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
+       width="50" height="50" style="border-radius:50%" />
+</a>
+
+</div>
 
 ---
 
@@ -46,7 +67,7 @@ React · Node.js · AWS (S3, EC2, CloudFront) · Redis · MongoDB
 
 ### 🌾 AgriAuthentic
 **Agricultural transparency platform**  
-🏆 *5th Place – All India Hackathon (Team Project)*
+🏆 *5th Place – Odoo All India Hackathon (Team Project)*
 
 - QR-based product authenticity & lifecycle verification  
 - Farmer dashboards for product & certification management  
