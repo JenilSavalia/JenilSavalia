@@ -20,10 +20,10 @@
 ## 🚀 Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <!-- Project 1 -->
-      <td width="50%" valign="top">
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 📚 College Notes Exchange Platform
 **Full-stack collaborative learning platform**
@@ -47,18 +47,17 @@
 [📂 View Repo](https://github.com/yourusername/college-notes-platform) •  
 [🚀 Live Demo](https://your-live-demo-link.com)
 
-      </td>
+</td>
 
-      <!-- Project 2 -->
-      <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧩 Project Name Two
-**Short and clear project description**
+**Short and clean project description**
 
 📌 **Features**
-- ⚡ Fast & scalable architecture  
-- 🔒 Secure authentication  
-- 🎯 Clean and intuitive UI  
+- ⚡ High performance  
+- 🔐 Secure authentication  
+- 🎯 Intuitive UI  
 
 🛠 **Tech Stack**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
@@ -69,9 +68,10 @@
 [📂 View Repo](https://github.com/yourusername/project-two) •  
 [🚀 Live Demo](https://your-live-demo-link.com)
 
-      </td>
-    </tr>
-  </table>
+</td>
+
+</tr>
+</table>
 </div>
 
 ---
