@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Social Badges with Modern Styling -->
-<div align="center">
+<div align="center" style="margin-top: 20px;">
 
   <a href="https://www.linkedin.com/in/jenilsavalia/" target="_blank">LinkedIn</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
